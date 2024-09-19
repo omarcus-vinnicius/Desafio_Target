@@ -1,6 +1,6 @@
 # Desafio_Target
 
-** iNSTRUÇÕES **
+## iNSTRUÇÕES ##
 
 Utilize o html (Live Server) para roda e interagir com os exercicios 
 ou 
